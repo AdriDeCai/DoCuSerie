@@ -1,0 +1,46 @@
+{
+"name": "JULIAN ASSANGE",
+"image": "https://pics.filmaffinity.com/crims-190785863-large.jpg",
+"url": "",
+"info": "bY AdriDeCai",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"telegram": "@YIsus_mEx",
+"stations":
+	[
+
+	{
+	"name": "Julian Assange Underground Story",
+        "image": "https://pics.filmaffinity.com/underground_the_julian_assange_story-276533063-mmed.jpg",
+        "url": "https://filemoon.sx/d/0qpln9ncpgjq/Julian_Assange_Underground_Story_2012_720p_WEBRip_x264_AAC_YTS.mp4",
+       	"info": "[Español 2012]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "Julian Assange Revolution Now",
+        "image": "https://i.postimg.cc/KjGC01wV/Julian-Assange-Revolution-Now-2020-Documental.jpg",
+        "url": "https://filemoon.sx/d/alb9nld0qtcj/Julian_Assange_Revolution_Now_2020_720p_WEBRip_x264_AAC_YTS_MX.mp4",
+       	"info": "[Español 2020]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "Julian Assange Wikileaks la historia del denunciante",
+        "image": "https://static.dw.com/image/15985205_1004.webp",
+        "url": "https://filemoon.sx/d/9ee69msp19ao/Julian_Assange_WIKILEAKS-LA-HISTORIA-DEL-DENUNCIANTE.mp4",
+       	"info": "[Español 2021]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	}
+
+]
+}
