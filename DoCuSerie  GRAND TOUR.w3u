@@ -6,49 +6,48 @@
 "telegram": "@YIsus_mEx",
 "stations":[
 
-	      {
-	      "name": "CAPITULO 1",
+	{
+	"name": "CAPITULO 1",
         "image": "https://pics.filmaffinity.com/the_grand_tour-645395685-large.jpg",
         "url": "https://filemoon.sx/d/kei4h7yorv8g/The_grand_tour_1x01.avi",
        	"info": "[Español 2016]",
        	"embed": "",
        	"isHost": "true",
        	"online": "true",
-	      "userAgent":"PlusMediaPlayer/0.0.9",
+	"userAgent":"PlusMediaPlayer/0.0.9",
        	"import": false
        	},
-	      {
-	      "name": "CAPITULO 2",
+	{
+	"name": "CAPITULO 2",
         "image": "https://pics.filmaffinity.com/the_grand_tour-645395685-large.jpg",
         "url": "https://filemoon.sx/d/468q6en6lc8e/The_grand_tour_1x02.avi",
        	"info": "[Español 2016]",
        	"embed": "",
        	"isHost": "true",
        	"online": "true",
-	      "userAgent":"PlusMediaPlayer/0.0.9",
+	"userAgent":"PlusMediaPlayer/0.0.9",
        	"import": false
        	},
-
-	      {
-	      "name": "CAPITULO 3",
+	{
+	"name": "CAPITULO 3",
         "image": "https://pics.filmaffinity.com/the_grand_tour-645395685-large.jpg",
         "url": "https://filemoon.sx/d/hk6lpnuk9mej/The_grand_tour_1x03.avi",
        	"info": "[Español 2016]",
        	"embed": "",
        	"isHost": "true",
        	"online": "true",
-	      "userAgent":"PlusMediaPlayer/0.0.9",
+	"userAgent":"PlusMediaPlayer/0.0.9",
        	"import": false
        	},
-	      {
-	      "name": "CAPITULO 4",
+	{
+	"name": "CAPITULO 4",
         "image": "https://pics.filmaffinity.com/the_grand_tour-645395685-large.jpg",
         "url": "https://filemoon.sx/d/an4xljuvx5qa/The_grand_tour_1x04.avi",
        	"info": "[Español 2016]",
        	"embed": "",
        	"isHost": "true",
        	"online": "true",
-	      "userAgent":"PlusMediaPlayer/0.0.9",
+	"userAgent":"PlusMediaPlayer/0.0.9",
        	"import": false
        	}
 
