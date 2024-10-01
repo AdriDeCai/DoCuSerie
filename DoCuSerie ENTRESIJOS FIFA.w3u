@@ -1,0 +1,56 @@
+{
+"name": "Entresijos de la Fifa",
+"image": "https://pics.filmaffinity.com/fifa_uncovered-670170128-large.jpg",
+"url": "https://raw.githubusercontent.com/AdriDeCai/DoCuSerie/main/",
+"info": "bY AdriDeCai",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"telegram": "@YIsus_mEx",
+"stations":
+	[
+
+	{
+	      "name": "Capitulo 1",
+        "image": "https://pics.filmaffinity.com/fifa_uncovered-670170128-large.jpg",
+        "url": "https://filemoon.sx/d/w8xagc7uu3ri/Los_entresijos_de_la_Fifa_1x01_cine_cine.mp4",
+       	"info": "[Español 2022]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	      "userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	      "name": "Capitulo 2",
+        "image": "https://pics.filmaffinity.com/fifa_uncovered-670170128-large.jpg",
+        "url": "https://filemoon.sx/d/1ebxvp50mx1k/Los_entresijos_de_la_Fifa_1x02_cine_cine.mp4",
+       	"info": "[Español 2022]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	      "userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	      "name": "Capitulo 3",
+        "image": "https://pics.filmaffinity.com/fifa_uncovered-670170128-large.jpg",
+        "url": "https://filemoon.sx/d/k99plwtdtpao/Los_entresijos_de_la_Fifa_1x03_cine_cine.mp4",
+       	"info": "[Español 2022]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	      "userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	      "name": "Capitulo 4",
+        "image": "https://pics.filmaffinity.com/fifa_uncovered-670170128-large.jpg",
+        "url": "https://filemoon.sx/d/0534o6b1211o/Los_entresijos_de_la_Fifa_1x04_cine_cine.mp4",
+       	"info": "[Español 2022]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	      "userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	}
+]
+}
