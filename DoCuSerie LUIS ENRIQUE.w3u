@@ -26,6 +26,17 @@
           "online": "true",
           "userAgent": "PlusMediaPlayer/0.0.9",
           "import": false
+          },
+          {
+          "name": "CAPITULO 3",
+          "image": "https://pics.filmaffinity.com/luis_enrique_presenta_no_teneis_ni_idea-855733998-large.jpg",
+          "url": "",
+          "info": "2024",
+          "embed": "",
+          "isHost": "true",
+          "online": "true",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "import": false
           }
 
         ]
