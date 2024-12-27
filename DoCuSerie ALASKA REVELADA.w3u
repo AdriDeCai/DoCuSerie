@@ -1,0 +1,45 @@
+{
+"name": "Alaska Revelada",
+"image": "https://pics.filmaffinity.com/alaska_revelada-231689832-large.jpg",
+"url": "https://raw.githubusercontent.com/AdriDeCai/DoCuSerie/refs/heads/main/index.w3u",
+"info": "bY AdriDeCai",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"telegram": "@YIsus_mEx",
+"stations":[
+
+	{
+	"name": "Capitulo 1",
+  "image": "https://pics.filmaffinity.com/alaska_revelada-231689832-large.jpg",
+  "url": "https://listeamed.net/v/MAlwEMWQo7M5J39",
+  "info": "[Español 2024]",
+  "embed": "",
+  "isHost": "true",
+  "online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+  "import": false
+  },
+	{
+	"name": "Capitulo 2",
+  "image": "https://pics.filmaffinity.com/alaska_revelada-231689832-large.jpg",
+  "url": "https://listeamed.net/v/Ro7kOVJ6BlyOZWB",
+  "info": "[Español 2024]",
+  "embed": "",
+  "isHost": "true",
+  "online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+  "import": false
+  },
+	{
+	"name": "Capitulo 3",
+  "image": "https://pics.filmaffinity.com/alaska_revelada-231689832-large.jpg",
+  "url": "https://listeamed.net/v/QNB7xAW0km1O0WG",
+  "info": "[Español 2024]",
+  "embed": "",
+  "isHost": "true",
+  "online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+  "import": false
+  }
+
+]
+}
