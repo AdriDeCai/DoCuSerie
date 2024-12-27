@@ -1,0 +1,67 @@
+{
+"name": "UniverXO Dabiz",
+"image": "https://pics.filmaffinity.com/univerxo_dabiz-443530719-large.jpg",
+"url": "https://raw.githubusercontent.com/AdriDeCai/DoCuSerie/refs/heads/main/",
+"info": "bY AdriDeCai",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"telegram": "@YIsus_mEx",
+"stations":[
+
+	{
+	"name": "Capitulo 1",
+  "image": "https://pics.filmaffinity.com/univerxo_dabiz-443530719-large.jpg",
+  "url": "",
+  "info": "[Español 2024]",
+  "embed": "",
+  "isHost": "true",
+  "online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+  "import": false
+  },
+	{
+	"name": "Capitulo 2",
+  "image": "https://pics.filmaffinity.com/univerxo_dabiz-443530719-large.jpg",
+  "url": "",
+  "info": "[Español 2024]"
+  "embed": "",
+  "isHost": "true",
+  "online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+  "import": false
+  },
+	{
+	"name": "Capitulo 3",
+  "image": "https://pics.filmaffinity.com/univerxo_dabiz-443530719-large.jpg",
+  "url": "",
+  "info": "[Español 2024]"
+  "embed": "",
+  "isHost": "true",
+  "online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+  "import": false
+  },
+	{
+	"name": "Capitulo 4",
+  "image": "https://pics.filmaffinity.com/univerxo_dabiz-443530719-large.jpg",
+  "url": "",
+  "info": "[Español 2024]"
+  "embed": "",
+  "isHost": "true",
+  "online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+  "import": false
+  },
+	{
+	"name": "Capitulo 5",
+  "image": "https://pics.filmaffinity.com/univerxo_dabiz-443530719-large.jpg",
+  "url": "",
+  "info": "[Español 2024]"
+  "embed": "",
+  "isHost": "true",
+  "online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+  "import": false
+  }
+
+]
+}
