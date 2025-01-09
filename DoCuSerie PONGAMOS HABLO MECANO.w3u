@@ -1,0 +1,45 @@
+{
+"name": "Pongamos que hablo de Mecano",
+"image": "https://pics.filmaffinity.com/pongamos_que_hablo_de_mecano-648963867-large.jpg",
+"url": "https://raw.githubusercontent.com/AdriDeCai/DoCuSerie/refs/heads/main/index.w3u",
+"info": "bY AdriDeCai",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"telegram": "@YIsus_mEx",
+"stations":[
+
+	{
+	"name": "Capitulo 1",
+  "image": "https://pics.filmaffinity.com/pongamos_que_hablo_de_mecano-648963867-large.jpg",
+  "url": "https://listeamed.net/v/nyg9EKModgj5bk4",
+  "info": "[Español 2020]",
+  "embed": "",
+  "isHost": "true",
+  "online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+  "import": false
+  },
+	{
+	"name": "Capitulo 2",
+  "image": "https://pics.filmaffinity.com/pongamos_que_hablo_de_mecano-648963867-large.jpg",
+  "url": "https://listeamed.net/v/pVa4E8vdBe05kzM",
+  "info": "[Español 2020]",
+  "embed": "",
+  "isHost": "true",
+  "online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+  "import": false
+  },
+	{
+	"name": "Capitulo 3",
+  "image": "https://pics.filmaffinity.com/pongamos_que_hablo_de_mecano-648963867-large.jpg",
+  "url": "https://listeamed.net/v/MAlwEMWwjM45J39",
+  "info": "[Español 2020]",
+  "embed": "",
+  "isHost": "true",
+  "online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+  "import": false
+  }
+
+]
+}
