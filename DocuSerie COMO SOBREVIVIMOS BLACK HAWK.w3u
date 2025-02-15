@@ -1,0 +1,45 @@
+{
+"name": "Como sobrevivimos a la caida de los Black Hawk",
+"image": "https://pics.filmaffinity.com/surviving_black_hawk_down-303223505-large.jpg",
+"url": "https://raw.githubusercontent.com/AdriDeCai/DoCuSerie/refs/heads/main/index.w3u",
+"info": "bY AdriDeCai",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"telegram": "@YIsus_mEx",
+"groups":[
+
+	{
+	"name": "Capitulo 1",
+  "image": "https://pics.filmaffinity.com/surviving_black_hawk_down-303223505-large.jpg",
+  "url": "https://ryderjet.com/file/gwhgxldnmijx",
+  "info": "[Español 2025]",
+  "embed": "",
+  "isHost": "true",
+  "online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+  "import": false
+  },
+	{
+	"name": "Capitulo 2",
+  "image": "https://pics.filmaffinity.com/surviving_black_hawk_down-303223505-large.jpg",
+  "url": "https://ryderjet.com/file/8lgamnlrd7f7",
+  "info": "[Español 2025]",
+  "embed": "",
+  "isHost": "true",
+  "online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+  "import": false
+  },
+	{
+	"name": "Capitulo 3",
+  "image": "https://pics.filmaffinity.com/surviving_black_hawk_down-303223505-large.jpg",
+  "url": "https://ryderjet.com/file/519qiblz1omm",
+  "info": "[Español 2025]",
+  "embed": "",
+  "isHost": "true",
+  "online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+  "import": false
+  }
+
+]
+}
