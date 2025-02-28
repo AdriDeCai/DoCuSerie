@@ -4,22 +4,16 @@ https:
 
 {
 "name": "3 tonelada$: Asalto al Banco Central do Brasil",
-"image": "",
+"image": "https://pics.filmaffinity.com/3_tonelada_assalto_ao_banco_central-366525934-large.jpg",
 "url": "",
 "info": "bY AdriDeCai",
 "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
 "telegram": "@YIsus_mEx",
-"groups":[
+"stations":[
 
-
-{
-"name": "TEMPORADA 1",
-"image": "",
-"stations":
-[
 {
 "name": "Capitulo 1",
-"image": "",
+"image": "https://pics.filmaffinity.com/3_tonelada_assalto_ao_banco_central-366525934-large.jpg",
 "url": "https://nikaplayerr.com/file/",
 "info": "[Español 2022]",
 "embed": "",
@@ -27,18 +21,10 @@ https:
 "online": "true",
 "userAgent":"PlusMediaPlayer/0.0.9",
 "import": false
-}
-]
 },
-
 {
-"name": "TEMPORADA 2",
-"image": "",
-"stations":
-[
-{
-"name": "Capitulo 1",
-"image": "",
+"name": "Capitulo 2",
+"image": "https://pics.filmaffinity.com/3_tonelada_assalto_ao_banco_central-366525934-large.jpg",
 "url": "https://nikaplayerr.com/file/",
 "info": "[Español 2022]",
 "embed": "",
@@ -46,18 +32,10 @@ https:
 "online": "true",
 "userAgent":"PlusMediaPlayer/0.0.9",
 "import": false
-}
-]
 },
-
 {
-"name": "TEMPORADA 3",
-"image": "",
-"stations":
-[
-{
-"name": "Capitulo 1",
-"image": "",
+"name": "Capitulo 3",
+"image": "https://pics.filmaffinity.com/3_tonelada_assalto_ao_banco_central-366525934-large.jpg",
 "url": "https://nikaplayerr.com/file/",
 "info": "[Español 2022]",
 "embed": "",
@@ -65,8 +43,6 @@ https:
 "online": "true",
 "userAgent":"PlusMediaPlayer/0.0.9",
 "import": false
-}
-]
 }
 
 ]
