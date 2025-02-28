@@ -1,0 +1,45 @@
+{
+"name": "El Minuto Heroico, Yo también dejé el Opus Dei",
+"image": "",
+"url": "",
+"info": "bY AdriDeCai",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"telegram": "@YIsus_mEx",
+"stations":[
+
+{
+"name": "Capitulo 1",
+"image": "",
+"url": "",
+"info": "[Español 2022]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "Capitulo 2",
+"image": "",
+"url": "",
+"info": "[Español 2022]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "Capitulo 1",
+"image": "",
+"url": "",
+"info": "[Español 2022]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+}
+
+]
+}
