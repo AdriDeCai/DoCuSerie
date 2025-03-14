@@ -1,17 +1,18 @@
-    {
-      "name": "Thank you, goodnight. La historia de Bon Jovi",
-      "image": "https://pics.filmaffinity.com/thank_you_goodnight_the_bon_jovi_story-238519198-large.jpg",
-      "url": "",
-      
-      "stations": [
-
+{
+"name": "Thank you, goodnight. La historia de Bon Jovi",
+"image": "https://pics.filmaffinity.com/thank_you_goodnight_the_bon_jovi_story-238519198-large.jpg",
+"url": "",
+"info": "bY AdriDeCai",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"telegram": "@YIsus_mEx",      
+"stations": [
 
         {
           "name": "Capitulo 1",
           "info": "[Ingles][2024]",
           "image": "https://pics.filmaffinity.com/thank_you_goodnight_the_bon_jovi_story-238519198-large.jpg",
           "url": "https://filemoon.to/d/qjv1k8pdjvne/1X02_Thank_you__goodnight.mkv",
-	      "userAgent":"PlusMediaPlayer/0.0.9",
+	  "userAgent":"PlusMediaPlayer/0.0.9",
           "embed": "",
           "isHost": "true",
           "online": "true"
