@@ -1,0 +1,44 @@
+{
+"name": "Calleja en el espacio",
+"image": "https://pics.filmaffinity.com/calleja_en_el_espacio-138727037-large.jpg",
+"url": "",
+"info": "bY AdriDeCai",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"telegram": "@YIsus_mEx",
+"stations":[
+
+{
+"name": "Capitulo 1",
+"image": "https://pics.filmaffinity.com/calleja_en_el_espacio-138727037-large.jpg",
+"url": "https://filemoon.to/d/a0thrmz3vh00/Calleja_en_el_espacio_1.mp4",
+"info": "[Español 2025]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "Capitulo 2",
+"image": "https://pics.filmaffinity.com/calleja_en_el_espacio-138727037-large.jpg",
+"url": "https://filemoon.to/d/haqq61uhlj0k/Calleja_en_el_espacio_2.mp4",
+"info": "[Español 2025]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "Capitulo 3",
+"image": "https://pics.filmaffinity.com/calleja_en_el_espacio-138727037-large.jpg",
+"url": "https://filemoon.to/d/e1jwu3bdqgc3/Calleja_en_el_espacio_3.mp4",
+"info": "[Español 2025]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+}
+]
+}
