@@ -1,0 +1,45 @@
+{
+"name": "Alcaraz, a mi manera",
+"image": "https://pics.filmaffinity.com/carlos_alcaraz_a_mi_manera-320744455-large.jpg",
+"url": "",
+"info": "bY AdriDeCai",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"telegram": "@YIsus_mEx",
+"stations":
+[
+{
+"name": "Capitulo 1",
+"image": "https://pics.filmaffinity.com/carlos_alcaraz_a_mi_manera-320744455-large.jpg",
+"url": "https://filemoon.to/d/phe31n0tpn0p/Carlos_Alcaraz_A_mi_manera_S01E01_Disfrutar_sufriendo.mkv",
+"info": "[Español 2025]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "Capitulo 2",
+"image": "https://pics.filmaffinity.com/carlos_alcaraz_a_mi_manera-320744455-large.jpg",
+"url": "https://filemoon.to/d/yklqe8u4f3yq/Carlos_Alcaraz_A_mi_manera_S01E02_No_soy_Rafa.mkv",
+"info": "[Español 2025]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "Capitulo 3",
+"image": "https://pics.filmaffinity.com/carlos_alcaraz_a_mi_manera-320744455-large.jpg",
+"url": "https://filemoon.to/d/dvg3ch4lscj4/Carlos_Alcaraz_A_mi_manera_S01E03_A_mi_manera.mkv",
+"info": "[Español 2025]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+}
+
+]
+}
